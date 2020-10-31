@@ -4,6 +4,7 @@ public class HalloweenTest {
     // adding new lines
 
     // line 1
+    // line 2
 
 
 
