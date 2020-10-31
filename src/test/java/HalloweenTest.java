@@ -1,7 +1,7 @@
 public class HalloweenTest {
-    // message from master branch
-    // I'm about to give everyone candy for halloween
+    // adding from master and magic
 
+    // I'm about to give everyone candy for halloween
     // Hello git
     // adding new lines
 
